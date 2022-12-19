@@ -1,6 +1,6 @@
 from sys import argv
 
-# __author__ = "Sanjith Kumar E"
+# __author__ = "Thimmanna"
 # __version__ = "1.0"
 # __email__ = "sanjithkumar048@gmail.com"
 # __status__ = "Completed"
